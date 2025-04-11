@@ -1,0 +1,104 @@
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\Andrew\Desktop\PA\VisualStudio\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Matriz.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Matriz.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda2.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda3.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.SumaDiagonal.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Final.resources
+C:\Users\HP\Downloads\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Creditos.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda2.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda3.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Creditos.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Final.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Matriz.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\Andrew\Desktop\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda2.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda3.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Creditos.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Final.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Matriz.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\Andrew\Desktop\PA\Proyectos\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda2.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda3.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Creditos.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Final.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Matriz.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe.config
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.exe
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\bin\Debug\proyectoAPE2.pdb
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.AssemblyReference.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda2.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Ayuda3.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Creditos.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Final.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\ayuda1.FormBienvenida.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.FormCaratula.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Matriz.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.Properties.Resources.resources
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.GenerateResource.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.exe
+C:\Users\bryan\Downloads\Nueva carpeta\proyectoAPE2\proyectoAPE2\proyectoAPE2\proyectoAPE2\obj\Debug\proyectoAPE2.pdb
